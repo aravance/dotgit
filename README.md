@@ -1,0 +1,4 @@
+dotgit
+======
+
+My git config.
