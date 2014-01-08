@@ -20,7 +20,7 @@
   br = branch
   cp = cherry-pick
   pop = stash pop
-  hist = log --pretty=format:\"%C(yellow)%h %Cgreen%ad%Creset | %C(bold)%s%C(bold)%C(blue)%d%C(reset) [%C(cyan)%aN%Creset]\" --graph --date=short
+  hist = log --pretty=format:\"%C(green)%h %C(yellow)%ad%Creset | %C(bold)%s%C(bold)%C(blue)%d%C(reset) [%C(cyan)%aN%Creset]\" --graph --date=short
   type = cat-file -t
   dump = cat-file -p
   sm = submodule
