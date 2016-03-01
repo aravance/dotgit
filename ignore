@@ -43,3 +43,12 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+
+# IDE Files #
+#############
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.iws
