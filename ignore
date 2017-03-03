@@ -33,6 +33,7 @@ build
 *~
 *.bac
 *.bak
+.*.swp
 
 # OS files #
 ############
