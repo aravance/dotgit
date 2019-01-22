@@ -39,3 +39,5 @@
   prompt = false
 [branch]
   autosetuprebase = always
+[rebase]
+  autoStash = true
